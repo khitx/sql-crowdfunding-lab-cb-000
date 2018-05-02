@@ -1,11 +1,20 @@
-INSERT INTO projects VALUES (1, "Project One", "A", 5000, "01/01/1999", "12/31/1999");
+INSERT INTO projects VALUES (1, "Project 1", "A", 5000, "01/01/1999", "12/31/1999");
+INSERT INTO projects VALUES (1, "Project 2", "A", 2000, "01/01/1999", "12/31/1999");
+INSERT INTO projects VALUES (1, "Project 3", "A", 160, "01/01/1999", "12/31/1999");
+INSERT INTO projects VALUES (1, "Project 4", "A", 345, "01/01/1999", "12/31/1999");
+INSERT INTO projects VALUES (1, "Project 5", "A", 723, "01/01/1999", "12/31/1999");
+INSERT INTO projects VALUES (1, "Project 6", "A", 5000, "01/01/1999", "12/31/1999");
+INSERT INTO projects VALUES (1, "Project 7", "A", 5000, "01/01/1999", "12/31/1999");
+INSERT INTO projects VALUES (1, "Project 8", "A", 5000, "01/01/1999", "12/31/1999");
+INSERT INTO projects VALUES (1, "Project 9", "A", 5000, "01/01/1999", "12/31/1999");
+INSERT INTO projects VALUES (1, "Project 10", "A", 5000, "01/01/1999", "12/31/1999");
 
 INSERT INTO users VALUES (1, "Me", 51);
-INSERT INTO users VALUES (2, "Me", 51);
-INSERT INTO users VALUES (3, "Me", 51);
-INSERT INTO users VALUES (4, "Me", 51);
-INSERT INTO users VALUES (5, "Me", 51);
-INSERT INTO users VALUES (6, "Me", 51);
+INSERT INTO users VALUES (2, "Tim", 23);
+INSERT INTO users VALUES (3, "John", 56);
+INSERT INTO users VALUES (4, "Mark", 34);
+INSERT INTO users VALUES (5, "Katy", 12);
+INSERT INTO users VALUES (6, "Jill", 92);
 INSERT INTO users VALUES (7, "Me", 51);
 INSERT INTO users VALUES (8, "Me", 51);
 INSERT INTO users VALUES (9, "Me", 51);
