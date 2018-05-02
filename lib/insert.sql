@@ -1,5 +1,24 @@
 INSERT INTO projects VALUES (1, "Project One", "A", 5000, "01/01/1999", "12/31/1999");
 
 INSERT INTO users VALUES (1, "Me", 51);
+INSERT INTO users VALUES (2, "Me", 51);
+INSERT INTO users VALUES (3, "Me", 51);
+INSERT INTO users VALUES (4, "Me", 51);
+INSERT INTO users VALUES (5, "Me", 51);
+INSERT INTO users VALUES (6, "Me", 51);
+INSERT INTO users VALUES (7, "Me", 51);
+INSERT INTO users VALUES (8, "Me", 51);
+INSERT INTO users VALUES (9, "Me", 51);
+INSERT INTO users VALUES (10, "Me", 51);
+INSERT INTO users VALUES (11, "Me", 51);
+INSERT INTO users VALUES (12, "Me", 51);
+INSERT INTO users VALUES (13, "Me", 51);
+INSERT INTO users VALUES (14, "Me", 51);
+INSERT INTO users VALUES (15, "Me", 51);
+INSERT INTO users VALUES (16, "Me", 51);
+INSERT INTO users VALUES (17, "Me", 51);
+INSERT INTO users VALUES (18, "Me", 51);
+INSERT INTO users VALUES (19, "Me", 51);
+INSERT INTO users VALUES (20, "Me", 51);
 
 INSERT INTO pledges VALUES (1, 10, 1, 1);
